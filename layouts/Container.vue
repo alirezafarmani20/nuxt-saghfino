@@ -1,5 +1,5 @@
 <template>
-    <div class="mx-4 sm:mx-6">
-        <slot></slot>
-    </div>
+  <div class="mx-4 sm:mx-6">
+    <slot></slot>
+  </div>
 </template>
